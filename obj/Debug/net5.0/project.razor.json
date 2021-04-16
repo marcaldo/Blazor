@@ -1,0 +1,56 @@
+{
+  "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Blazor.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "5.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "Blazor",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\marca\\source\\repos\\no-pwa\\Blazor\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
