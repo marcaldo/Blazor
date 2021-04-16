@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-II6dns\/QMpxol1ZKOHrMhHCZmNFwGiqfCMtnkrlC6TM=",
+      "hash": "sha256-aRouvZUisQd4i9GBrOIuuNKfEREYV4c4xyK8Zik9rcE=",
       "url": ".gitattributes"
     },
     {
@@ -249,5 +249,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "87xrgLcD"
+  "version": "VFqDK7ht"
 };
